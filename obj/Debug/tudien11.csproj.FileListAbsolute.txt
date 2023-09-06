@@ -1,0 +1,31 @@
+C:\Users\Admin\Documents\CẤU TRÚC DỮ LIỆU\tudien11\tudien11\bin\Debug\tudien11.exe.config
+C:\Users\Admin\Documents\CẤU TRÚC DỮ LIỆU\tudien11\tudien11\bin\Debug\tudien11.exe
+C:\Users\Admin\Documents\CẤU TRÚC DỮ LIỆU\tudien11\tudien11\bin\Debug\tudien11.pdb
+C:\Users\Admin\Documents\CẤU TRÚC DỮ LIỆU\tudien11\tudien11\obj\Debug\tudien11.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\CẤU TRÚC DỮ LIỆU\tudien11\tudien11\obj\Debug\tudien11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\CẤU TRÚC DỮ LIỆU\tudien11\tudien11\obj\Debug\tudien11.Form1.resources
+C:\Users\Admin\Documents\CẤU TRÚC DỮ LIỆU\tudien11\tudien11\obj\Debug\tudien11.Properties.Resources.resources
+C:\Users\Admin\Documents\CẤU TRÚC DỮ LIỆU\tudien11\tudien11\obj\Debug\tudien11.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\CẤU TRÚC DỮ LIỆU\tudien11\tudien11\obj\Debug\tudien11.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\CẤU TRÚC DỮ LIỆU\tudien11\tudien11\obj\Debug\tudien11.exe
+C:\Users\Admin\Documents\CẤU TRÚC DỮ LIỆU\tudien11\tudien11\obj\Debug\tudien11.pdb
+D:\Cấu trúc dl gt\cc\cuoiky10diem\tudien11\bin\Debug\tudien11.exe.config
+D:\Cấu trúc dl gt\cc\cuoiky10diem\tudien11\bin\Debug\tudien11.exe
+D:\Cấu trúc dl gt\cc\cuoiky10diem\tudien11\bin\Debug\tudien11.pdb
+D:\Cấu trúc dl gt\cc\cuoiky10diem\tudien11\obj\Debug\tudien11.csproj.AssemblyReference.cache
+D:\Cấu trúc dl gt\cc\cuoiky10diem\tudien11\obj\Debug\tudien11.Form1.resources
+D:\Cấu trúc dl gt\cc\cuoiky10diem\tudien11\obj\Debug\tudien11.Properties.Resources.resources
+D:\Cấu trúc dl gt\cc\cuoiky10diem\tudien11\obj\Debug\tudien11.csproj.GenerateResource.cache
+D:\Cấu trúc dl gt\cc\cuoiky10diem\tudien11\obj\Debug\tudien11.csproj.CoreCompileInputs.cache
+D:\Cấu trúc dl gt\cc\cuoiky10diem\tudien11\obj\Debug\tudien11.exe
+D:\Cấu trúc dl gt\cc\cuoiky10diem\tudien11\obj\Debug\tudien11.pdb
+C:\Users\DELL\Downloads\ManhTrongHai_cuoiky_gtctdl\File source code\tudien11\obj\Debug\tudien11.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\ManhTrongHai_cuoiky_gtctdl\File source code\tudien11\obj\Debug\tudien11.Form1.resources
+C:\Users\DELL\Downloads\ManhTrongHai_cuoiky_gtctdl\File source code\tudien11\obj\Debug\tudien11.Properties.Resources.resources
+C:\Users\DELL\Downloads\ManhTrongHai_cuoiky_gtctdl\File source code\tudien11\obj\Debug\tudien11.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\ManhTrongHai_cuoiky_gtctdl\File source code\tudien11\obj\Debug\tudien11.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\ManhTrongHai_cuoiky_gtctdl\File source code\tudien11\obj\Debug\tudien11.exe
+C:\Users\DELL\Downloads\ManhTrongHai_cuoiky_gtctdl\File source code\tudien11\obj\Debug\tudien11.pdb
+C:\Users\DELL\Downloads\ManhTrongHai_cuoiky_gtctdl\File source code\tudien11\bin\Debug\tudien11.exe.config
+C:\Users\DELL\Downloads\ManhTrongHai_cuoiky_gtctdl\File source code\tudien11\bin\Debug\tudien11.exe
+C:\Users\DELL\Downloads\ManhTrongHai_cuoiky_gtctdl\File source code\tudien11\bin\Debug\tudien11.pdb

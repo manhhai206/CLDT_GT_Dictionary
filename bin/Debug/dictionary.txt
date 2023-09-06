@@ -1,0 +1,4 @@
+Dog|Noun(N)|Chó( Danh từ )|My pet dog
+Cat|Noun|Con mèo (Danh từ)|The cat is play in the yard
+table|Noun|Cái bàn (Noun)|a dining table
+apple|Noun|Qủa táo (Danh từ)|The apple in the table; the apple in the tree
